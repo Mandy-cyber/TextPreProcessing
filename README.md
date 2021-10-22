@@ -8,7 +8,7 @@
 <br><br>
 
 ### **WHAT IT DOES**
-An all-in-one function which does the following,
+An all-in-one function which,
 <ul>
   <li>Removes punctuation</li>
   <li>Splits the text into a list of words</li>
