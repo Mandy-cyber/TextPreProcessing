@@ -1,4 +1,5 @@
 # TextPreProcessing
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Mandy-cyber/TextPreProcessing?color=%23ff5373&style=flat-square)  ![GitHub](https://img.shields.io/github/license/Mandy-cyber/TextPreProcessing?color=%23bce1ff&logo=MIT&style=flat-square)  ![GitHub repo size](https://img.shields.io/github/repo-size/Mandy-cyber/TextPreProcessing?color=%23ffcbc6&style=flat-square)
 #### *Python package for preprocessing text for NLP models*
 
 ## **INSTALLATION**
